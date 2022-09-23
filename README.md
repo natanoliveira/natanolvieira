@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NodeJS, ReactJS, Python
 - 👯 I’m looking to collaborate with projects from different areas and database
 - 💬 Ask me about PHP, SQL, JavaScript, HTML, CSS, APIs, Data Modeling
-- 📫 How to reach me: 
-<a href = "mailto:natanoliveirati@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> && 
-<a href="https://www.linkedin.com/in/natan-oliveira-sousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> && 
+
+<a href = "mailto:natanoliveirati@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/natan-oliveira-sousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/natan_oliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <!--
 - 😄 Pronouns: ...
