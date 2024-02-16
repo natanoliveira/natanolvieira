@@ -7,10 +7,10 @@
 Here are some ideas to get you started:
 
 - 😄 I work with development for over 14 years
-- 🔭 I’m currently I provide service to Code In Place
-- 🌱 I’m currently learning NodeJS, ReactJS, Python
+- 🌱 I’m currently learning Vue.js with Nuxt, Python, AWS
 - 👯 I’m looking to collaborate with projects from different areas and database
-- 💬 Ask me about PHP, SQL, JavaScript, HTML, CSS, APIs, Data Modeling
+- 🗂️ contributes with applications in various areas, including health, education, finance, strategic, governance and others
+- 💬 Ask me about PHP, JavaScript, Node.js, React.js, AngularJs, SQL, NoSQL, HTML, CSS, APIs, Data Modeling
 
 <a href = "mailto:natanoliveirati@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/natan-oliveira-sousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
